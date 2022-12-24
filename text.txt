@@ -1,4 +1,7 @@
-Erster Text
+Erster Text - Anpassung
 Noch was dazu
 Noch mehr text.
 Neuer Ast: Neues Feature - Anpassung
+Zweites Feature
+Zweites Feature: Erweiterung!
+Drittes Feature
